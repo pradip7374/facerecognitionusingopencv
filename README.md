@@ -175,4 +175,5 @@ Now, we will be using the file we prepared during training to recognize whose fa
         break
     cap.release()
     cv2.destroyAllWindows()
-    Now, run this program and your face recognition app is now ready.
+    
+ Now, run this program and your face recognition app is now ready.
