@@ -46,7 +46,7 @@ We are going to first create a database which stores the name of the correspondi
     conn.commit()
     conn.close()
     
-    Record Faces
+ Record Faces
 
 Now, we are going to prepare the dataset for face recognition. We will be using haarcascade_frontalface_default.xml file provided in the opencv/data/haarcascades directory of the opencv repo in github. Download the file and place it in the working directory. After that, make a file named record_face.py in the working directory and copy paste the code below:
 
